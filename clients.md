@@ -11,6 +11,7 @@ to create an [issue on GitHub](https://github.com/bitboxer/podwhat).
 
 * [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 * [Player.fm](https://play.google.com/store/apps/details?id=fm.player)
+* [Pocket Cast](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
 * [Podkicker](https://play.google.com/store/apps/details?id=ait.podka)
 * [uPod](https://play.google.com/store/apps/details?id=mobi.upod.app)
