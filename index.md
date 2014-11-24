@@ -32,7 +32,7 @@ example [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.ant
 [Overcast](https://itunes.apple.com/de/app/overcast-podcast-player/id888422857) for iOS. More apps
 can be found [in this list](/clients).
 
-After you installed it, you need to add Podcasts. There are two ways to do ti:
+After you installed it, you need to add Podcasts. There are two ways to do it:
 
 * With the search feature within the app. This is the most comfortable way.
 * Add a Podcast manually. Go to the page of the podcast, search for the "Feed URL",
