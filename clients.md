@@ -4,8 +4,7 @@ title: Clients
 permalink: /clients/
 ---
 
-This is a list of podcast clients (Podcatcher). If one is missing, feel free
-to create an [issue on GitHub](https://github.com/bitboxer/podwhat).
+This is a list of podcast clients (Podcatcher).
 
 # Android
 
@@ -51,4 +50,6 @@ to create an [issue on GitHub](https://github.com/bitboxer/podwhat).
 * [gPodder](http://gpodder.org/downloads)
 * [iTunes](http://www.apple.com/itunes/)
 * [Podscout](http://apps.microsoft.com/windows/de-de/app/podscout/f4316b46-7682-4cea-948b-53d135b2df17)
+
+If a client is missing, feel free to create an [issue on GitHub](https://github.com/bitboxer/podwhat).
 
