@@ -20,7 +20,7 @@
 
       <div class="wrapper">
 
-        <a class="site-title" href="/<%= I18n.locale %>">Podwhat?!</a>
+        <a class="site-title" href="/<%= I18n.locale %>/">Podwhat?!</a>
 
         <nav class="site-nav">
           <a href="#" class="menu-icon">
@@ -34,6 +34,7 @@
           <div class="trigger">
             <a class="page-link" href="<%= translated_url("en")%>">English</a>
             <a class="page-link" href="<%= translated_url("de")%>">German</a>
+            <a class="page-link" href="/<%= I18n.locale %>/about"><%= t("imprint") %></a>
           </div>
         </nav>
 

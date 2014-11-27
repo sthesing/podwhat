@@ -1,5 +1,6 @@
 ---
 de:
+  imprint: "Impressum"
   clients:
     list_of_podcasts: "Dies ist eine Liste aller Podcast Anwendungen (Podcatcher)."
     list_by_apple: "Und die offizielle App von Apple"
