@@ -20,7 +20,7 @@ This is a list of podcast clients (Podcatcher).
 * [Castro](https://itunes.apple.com/de/app/castro-high-fidelity-podcasts/id723142770)
 * [Downcast](https://itunes.apple.com/de/app/downcast/id393858566)
 * [iCatcher](https://itunes.apple.com/de/app/icatcher!-podcast-app/id414419105)
-* [Instacast](https://itunes.apple.com/de/app/icatcher!-podcast-app/id414419105)
+* [Instacast](https://itunes.apple.com/de/app/instacast-4-podcast-client/id577056377)
 * [Overcast](https://itunes.apple.com/de/app/overcast-podcast-player/id888422857)
 * [PocketCasts](https://itunes.apple.com/de/app/pocket-casts/id414834813)
 * [Podcat](https://itunes.apple.com/app/podcat/id845960230)
