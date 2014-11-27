@@ -44,6 +44,7 @@ gibt es zwei Wege:
   wird von der App benutzt, um die Episoden zu laden.
 
 Jetzt wird die App die Episodenliste laden und dich die Episoden auswählen lassen.
-Nach dem Laden der Dateien kannst du diese anhören, wann immer du willst.
+Nach dem Laden der Dateien kannst du diese anhören, wann immer du willst. Die meisten
+Apps werden auch automatisch neu erscheinende Folgen runterladen.
 
 Und nun: Viel Spaß!

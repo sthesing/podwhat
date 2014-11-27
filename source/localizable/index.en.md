@@ -38,7 +38,8 @@ After you install it, you need to add Podcasts. There are two ways to do it:
 copy that URL and add it in your app. That URL is used by your app to download the episodes.
 
 Now the client will download the episode list and you can usually select the episodes you want
-to download. After the download you can start listening to them whenever you want.
+to download. After the download you can start listening to them whenever you want. Most apps
+will automatically download new episodes for you.
 
 And now: happy listening!
 
