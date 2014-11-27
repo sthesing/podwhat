@@ -7,7 +7,7 @@
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width initial-scale=1">
     
-    <title><%= current_page.data.title %></title>
+    <title><%= current_page.data.title_i18n ? I18n.t(current_page.data.title_i18n)  : current_page.data.title %></title>
     
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag  "all" %>

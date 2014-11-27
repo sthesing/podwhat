@@ -2,6 +2,7 @@
 en:
   imprint: "Imprint"
   clients:
+    title: "Podcast Apps"
     list_of_podcasts: "This is a list of podcast clients (Podcatcher)."
     list_by_apple: "And the official Podcast app by Apple"
     list_by_microsoft: "And the official Podcast app by Microsoft"

@@ -1,44 +1,49 @@
 ---
 title: Pod...what?! Podcast!
 ---
-# Pod..what?! Podcast!
+# Pod..was?! Podcast!
 
-Podcasting is a way to distribute audio files<sup>1</sup> through the internet. With the right app you
-can listen to your favourite audio book, audio drama, interview or radio show whenever you want.
-On demand. Listen on your way to work, in the subway, in your car, or at home while cleaning your apartment.
+Podcasts sind ein Weg, um Audio-Dateien<sup>1</sup> im Internet zu verteilen. Mit der
+richtigen App kannst du dein Lieblingshörbuch, Hörspiel, Interview oder Radiosendung hören
+wann immer du willst. Auf dem weg zu Arbeit, in der U-Bahn, im Auto, oder wenn du deine
+Wohnung aufräumst.
 
-And the best thing about it: most apps download the files and let you listen to them even
-when you don't have a good internet connection on your phone. You can even listen on the train!
+Und das beste dabei ist: die meisten Apps laden die Dateien runter und ermöglichen
+das hören, wenn du mal keine gute Internetverbindung hast. Sogar in der Bahn!
 
-<small>1) Also video files and other content, but let's focus on the audio part.</small>
+<small>1) Das funktioniert auch mit Videos und andere Dateien, aber wir haben
+hier den Schwerpunkt auf den Audio-Dateien.</small>
 
-# What type of content is available?
+# Was für Inhalte sind verfübar?
 
-Everything. From award winning radio shows like [This American Life](http://www.thisamericanlife.org/)
-to comedy podcasts like [WTF with Marc Maron](http://www.wtfpod.com/). Or even science fiction
-audio plays from the 50s.
+Alles. Vom [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) bis zu
+Wissenschafts-Podcast wie den [Sternengeschichten](http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/).
+Oder sogar Science-Fiction Hörspiele aus den 50ern.
 
-# How do I find good podcasts to listen to?
+# Wie finde ich gute Podcast?
 
-Most podcasting apps have a list of favourite Podcasts. Scroll through it and pick a few.
-If that doesn't work, you can search for your favourite radio shows, as many of these also offer a podcast. Then, ask your friends! If you were to ask me, I would
-highly recommend [Serial](http://serialpodcast.org).
+Die meisten Podcast-Apps haben eine Liste von empfohlenen Podcasts. Schau dir einfach die Liste
+an und wähle ein paar aus. Wenn das nicht funktioniert, kannst du auch nach deiner Lieblings-Radiosendung
+suchen, viele davon bieten ebenfalls Podcasts an. Frag deine Freunde, ob die dir einen Podcast
+empfehlen könnten. Wenn du mich fragen würdest, würde ich das [Hörspielprojekt](http://www.hoerspielprojekt.de/)
+empfehlen.
 
-# How does it work?
+# Wie funktioniert das?
 
-The first thing would be to install a podcast client (a Podcatcher). There are several options out there, for
-example [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) for Android,
-[Overcast](https://itunes.apple.com/de/app/overcast-podcast-player/id888422857) for iOS. More apps
-can be found [in this list](clients).
+Zuerst musst du eine Podcast-App (einen Podcatcher) installieren. Es gibt sehr viele da draußen,
+zum Beispiele [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) für Android und
+[Overcast](https://itunes.apple.com/app/overcast-podcast-player/id888422857) für iOS. Weitere Apps
+kannst du [in dieser Liste sehen](clients).
 
-After you install it, you need to add Podcasts. There are two ways to do it:
+Nachdem du die App installiert hast, musst du nur noch Podcasts hinzufügen. Dafür
+gibt es zwei Wege:
 
-* Use the search feature within the app. This is the most comfortable way.
-* Add a Podcast manually. Go to the page of the podcast, search for the "Feed URL",
-copy that URL and add it in your app. That URL is used by your app to download the episodes.
+* Benutze die Such-Funktion innerhalb der App. Das ist der komfortabelste Weg.
+* Füge einen Podcast manuell hinzu. Dafür musst du auf der Webseite des Podcasts nach der
+  "Feed URL" suchen. Kopiere diese URL und füge die innerhalb der App hinzu. Diese URL
+  wird von der App benutzt, um die Episoden zu laden.
 
-Now the client will download the episode list and you can usually select the episodes you want
-to download. After the download you can start listening to them whenever you want.
+Jetzt wird die App die Episodenliste laden und dich die Episoden auswählen lassen.
+Nach dem laden der Dateien kannst du diese anhören, wann immer du willst.
 
-And now: happy listening!
-
+Und nun: viel Spaß!

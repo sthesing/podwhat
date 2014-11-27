@@ -2,6 +2,7 @@
 de:
   imprint: "Impressum"
   clients:
+    title: "Podcast Apps"
     list_of_podcasts: "Dies ist eine Liste aller Podcast Anwendungen (Podcatcher)."
     list_by_apple: "Und die offizielle App von Apple"
     list_by_microsoft: "Und die offizielle App von Microsoft"
