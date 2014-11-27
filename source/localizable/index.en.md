@@ -4,7 +4,7 @@ title: Pod...what?! Podcast!
 # Pod...what?! Podcast!
 
 Podcasting is a way to distribute audio files<sup>1</sup> through the internet. With the right app you
-can listen to your favourite audio book, audio drama, interview or radio show whenever you want.
+can listen to audio books, audio dramas, interviews or radio shows whenever you want.
 On demand. Listen on your way to work, in the subway, in your car, or at home while cleaning your apartment.
 
 And the best thing about it: most apps download the files and let you listen to them even

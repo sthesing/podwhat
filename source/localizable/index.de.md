@@ -4,7 +4,7 @@ title_i18n: index.title
 # Pod...was?! Podcast!
 
 Podcasts sind ein Weg, um Audio-Dateien<sup>1</sup> im Internet zu verteilen. Mit der
-richtigen App kannst du dein Lieblingshörbuch, Hörspiel, Interview oder Radiosendung hören
+richtigen App kannst du Hörbücher, Hörspiele, Interviews oder Radiosendungen hören
 wann immer du willst. Auf dem weg zu Arbeit, in der U-Bahn, im Auto, oder wenn du deine
 Wohnung aufräumst.
 
