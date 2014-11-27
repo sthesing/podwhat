@@ -1,3 +1,6 @@
+---
+title: Impressum
+---
 Diese Seite versucht, Menschen das Thema Podcasts nahezubringen.
 Der Quelltext dieser Seite findet ebenfalls auf [GitHub](https://github.com/bitboxer/podwhat).
 
