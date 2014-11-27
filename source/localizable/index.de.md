@@ -1,7 +1,7 @@
 ---
-title: Pod...what?! Podcast!
+title_i18n: index.title
 ---
-# Pod..was?! Podcast!
+# Pod...was?! Podcast!
 
 Podcasts sind ein Weg, um Audio-Dateien<sup>1</sup> im Internet zu verteilen. Mit der
 richtigen App kannst du dein Lieblingshörbuch, Hörspiel, Interview oder Radiosendung hören

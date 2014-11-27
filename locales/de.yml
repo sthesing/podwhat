@@ -1,6 +1,8 @@
 ---
 de:
   imprint: "Impressum"
+  index:
+    title: "Pod...was?! Podcast!"
   clients:
     title: "Podcast Apps"
     list_of_podcasts: "Dies ist eine Liste aller Podcast Anwendungen (Podcatcher)."

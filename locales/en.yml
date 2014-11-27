@@ -1,6 +1,8 @@
 ---
 en:
   imprint: "Imprint"
+  index:
+    title: "Pod...what?! Podcast!"
   clients:
     title: "Podcast Apps"
     list_of_podcasts: "This is a list of podcast clients (Podcatcher)."
