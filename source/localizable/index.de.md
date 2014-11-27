@@ -14,7 +14,7 @@ das hören, wenn du mal keine gute Internetverbindung hast. Sogar in der Bahn!
 <small>1) Das funktioniert auch mit Videos und andere Dateien, aber wir haben
 hier den Schwerpunkt auf den Audio-Dateien.</small>
 
-# Was für Inhalte sind verfübar?
+# Was für Inhalte sind verfügbar?
 
 Alles. Vom [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) bis zu
 Wissenschafts-Podcast wie den [Sternengeschichten](http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/).
