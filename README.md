@@ -11,6 +11,5 @@ an pull request.
 
 # TODOs
 
-* Translate the page to other languages
 * Add a small 1:30 video that demonstrates the power of podcasting
 * Add design
