@@ -1,0 +1,7 @@
+---
+en:
+  clients:
+    list_of_podcasts: "This is a list of podcast clients (Podcatcher)."
+    list_by_apple: "And the official Podcast app by Apple"
+    list_by_microsoft: "And the official Podcast app by Microsoft"
+    missing: "If a client is missing, feel free to create an [issue on GitHub](https://github.com/bitboxer/podwhat)."

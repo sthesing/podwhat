@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Pod..what?! Podcast!
 
 Podcasting is a way to distribute audio files<sup>1</sup> through the internet. With the right app you
@@ -30,7 +26,7 @@ highly recommend [Serial](http://serialpodcast.org).
 The first thing would be to install a podcast client (a Podcatcher). There are several options out there, for
 example [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) for Android,
 [Overcast](https://itunes.apple.com/de/app/overcast-podcast-player/id888422857) for iOS. More apps
-can be found [in this list](/clients).
+can be found [in this list](clients).
 
 After you install it, you need to add Podcasts. There are two ways to do it:
 
@@ -42,3 +38,4 @@ Now the client will download the episode list and you can usually select the epi
 to download. After the download you can start listening to them whenever you want.
 
 And now: happy listening!
+
