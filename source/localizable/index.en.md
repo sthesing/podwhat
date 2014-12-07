@@ -4,7 +4,7 @@ title: Pod...what?! Podcast!
 # Pod...what?! Podcast!
 
 Radio is no longer distributed via FM only, but also via the internet. While there are still shows that can only be listened to live, there are others that you can listen to when and where ever you want.  
-These shows are called Podcasts.  
+These shows are called Podcasts. Some of them have no affiliation to regular Radio programmes. They're autonomous productions.  
 With the right app you
 can listen<sup>1</sup> to audio books, audio dramas, interviews or radio shows whenever you want.
 On demand. Listen on your way to work, in the subway, in your car, or at home while cleaning your apartment.

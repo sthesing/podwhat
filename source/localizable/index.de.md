@@ -4,7 +4,7 @@ title_i18n: index.title
 # Pod...was?! Podcast!
 
 Radio wird nicht mehr nur über UKW ausgeliefert, sondern auch über das Internet. Da gibt es weiterhin Sendungen, die man nur live hören kann, aber auch andere, die man hören kann, wann und wo man will.  
-Diese Radiosendungen nennt man Podcast.  
+Diese Radiosendungen nennt man Podcast. Manche davon haben mit herkömmlichen Radio nichts mehr zu tun, sondern sind eigenständige Produktionen. 
 Mit der
 richtigen App kannst du Hörbücher, Hörspiele, Interviews oder Radiosendungen hören<sup>1</sup>
 wann immer du willst. Auf dem Weg zu Arbeit, in der U-Bahn, im Auto, oder wenn du deine
