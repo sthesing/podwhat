@@ -3,18 +3,20 @@ title: Pod...what?! Podcast!
 ---
 # Pod...what?! Podcast!
 
-Podcasting is a way to distribute audio files<sup>1</sup> through the internet. With the right app you
-can listen to audio books, audio dramas, interviews or radio shows whenever you want.
+Radio is no longer distributed via FM only, but also via the internet. While there are still shows that can only be listened to live, there are others that you can listen to when and where ever you want.  
+These shows are called Podcasts.  
+With the right app you
+can listen<sup>1</sup> to audio books, audio dramas, interviews or radio shows whenever you want.
 On demand. Listen on your way to work, in the subway, in your car, or at home while cleaning your apartment.
 
 And the best thing about it: most apps download the files and let you listen to them even
 when you don't have a good internet connection on your phone. You can even listen on the train!
 
-<small>1) Also video files and other content, but let's focus on the audio part.</small>
+<small>1) Podcasts can also be video files and other content, but let's focus on the audio part.</small>
 
 # What type of content is available?
 
-Everything. From award winning radio shows like [This American Life](http://www.thisamericanlife.org/)
+Virtually everything. From award winning radio shows like [This American Life](http://www.thisamericanlife.org/)
 to comedy podcasts like [WTF with Marc Maron](http://www.wtfpod.com/). Or even science fiction
 audio plays from the 50s.
 

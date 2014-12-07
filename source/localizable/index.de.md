@@ -3,8 +3,10 @@ title_i18n: index.title
 ---
 # Pod...was?! Podcast!
 
-Podcasts sind ein Weg, um Audio-Dateien<sup>1</sup> im Internet zu verteilen. Mit der
-richtigen App kannst du Hörbücher, Hörspiele, Interviews oder Radiosendungen hören
+Radio wird nicht mehr nur über UKW ausgeliefert, sondern auch über das Internet. Da gibt es weiterhin Sendungen, die man nur live hören kann, aber auch andere, die man hören kann, wann und wo man will.  
+Diese Radiosendungen nennt man Podcast.  
+Mit der
+richtigen App kannst du Hörbücher, Hörspiele, Interviews oder Radiosendungen hören<sup>1</sup>
 wann immer du willst. Auf dem Weg zu Arbeit, in der U-Bahn, im Auto, oder wenn du deine
 Wohnung aufräumst.
 
@@ -16,7 +18,7 @@ hier den Schwerpunkt auf den Audio-Dateien.</small>
 
 # Was für Inhalte sind verfügbar?
 
-Alles. Vom [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) bis zu
+So ziemlich alles. Vom [Radio Tatort](http://www.ard.de/home/radio/ARD_Radio_Tatort/94130/index.html) bis zu
 Wissenschafts-Podcast wie den [Sternengeschichten](http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/).
 Oder sogar Science-Fiction Hörspiele aus den 50ern.
 
